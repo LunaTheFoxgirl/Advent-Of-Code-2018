@@ -1,0 +1,9 @@
+{
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"authors": [
+		"Clipsey"
+	],
+	"copyright": "Copyright © 2018, Clipsey",
+	"name": "day2"
+}
